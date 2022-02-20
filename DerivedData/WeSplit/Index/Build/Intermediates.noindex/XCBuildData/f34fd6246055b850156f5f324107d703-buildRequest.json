@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "4b0d92232f60dc472501fb0675b4e778a7ed82ed2f9fe455c96017cb465739d9"
+    }
+  ],
+  "containerPath" : "/Users/joshuarogers/Desktop/iOS/100days/projects/WeSplit/WeSplit/WeSplit.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/joshuarogers/Desktop/iOS/100days/projects/WeSplit/WeSplit/DerivedData/WeSplit/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/joshuarogers/Desktop/iOS/100days/projects/WeSplit/WeSplit/DerivedData/WeSplit/Index/Build/Products",
+      "derivedDataPath" : "/Users/joshuarogers/Desktop/iOS/100days/projects/WeSplit/WeSplit/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/joshuarogers/Desktop/iOS/100days/projects/WeSplit/WeSplit/DerivedData/WeSplit/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/joshuarogers/Desktop/iOS/100days/projects/WeSplit/WeSplit/DerivedData/WeSplit/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/joshuarogers/Desktop/iOS/100days/projects/WeSplit/WeSplit/DerivedData/WeSplit/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/joshuarogers/Desktop/iOS/100days/projects/WeSplit/WeSplit/DerivedData/WeSplit/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
