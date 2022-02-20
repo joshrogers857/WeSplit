@@ -9,13 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        
-        ZStack {
-            Color.red.ignoresSafeArea(.all)
-            
-            Text("Some text")
-                .padding()
-        }
+        Text("Some text")
+            .padding()
     }
 }
 
