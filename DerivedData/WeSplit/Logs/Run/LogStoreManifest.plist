@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>7DCBE341-0C18-482A-BF1A-FE7F8CA89C8D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7DCBE341-0C18-482A-BF1A-FE7F8CA89C8D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeSplit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeSplit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeSplit</string>
+			<key>timeStartedRecording</key>
+			<real>667162395.062078</real>
+			<key>timeStoppedRecording</key>
+			<real>667162514.06401503</real>
+			<key>title</key>
+			<string>Run WeSplit</string>
+			<key>uniqueIdentifier</key>
+			<string>7DCBE341-0C18-482A-BF1A-FE7F8CA89C8D</string>
+		</dict>
 		<key>A6AF958C-D9A0-4410-934C-A98DB107B1AF</key>
 		<dict>
 			<key>className</key>
@@ -107,6 +141,40 @@
 			<string>Run WeSplit</string>
 			<key>uniqueIdentifier</key>
 			<string>BE18809F-5864-470C-AC14-67AD07AD9D30</string>
+		</dict>
+		<key>D9925D13-8300-4204-ADB6-6859B0A7ADD7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D9925D13-8300-4204-ADB6-6859B0A7ADD7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeSplit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeSplit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeSplit</string>
+			<key>timeStartedRecording</key>
+			<real>667162707.48730099</real>
+			<key>timeStoppedRecording</key>
+			<real>667162753.56975806</real>
+			<key>title</key>
+			<string>Run WeSplit</string>
+			<key>uniqueIdentifier</key>
+			<string>D9925D13-8300-4204-ADB6-6859B0A7ADD7</string>
 		</dict>
 	</dict>
 </dict>
