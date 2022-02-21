@@ -6,6 +6,74 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>0F6612AD-9E0D-41E5-A4D4-00506FE049BF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0F6612AD-9E0D-41E5-A4D4-00506FE049BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeSplit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeSplit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeSplit</string>
+			<key>timeStartedRecording</key>
+			<real>667166023.38318801</real>
+			<key>timeStoppedRecording</key>
+			<real>667166254.38842595</real>
+			<key>title</key>
+			<string>Run WeSplit</string>
+			<key>uniqueIdentifier</key>
+			<string>0F6612AD-9E0D-41E5-A4D4-00506FE049BF</string>
+		</dict>
+		<key>5C80AED6-1764-4295-9B7A-B2746293E6D2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5C80AED6-1764-4295-9B7A-B2746293E6D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeSplit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeSplit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeSplit</string>
+			<key>timeStartedRecording</key>
+			<real>667165208.61099505</real>
+			<key>timeStoppedRecording</key>
+			<real>667166022.72169399</real>
+			<key>title</key>
+			<string>Run WeSplit</string>
+			<key>uniqueIdentifier</key>
+			<string>5C80AED6-1764-4295-9B7A-B2746293E6D2</string>
+		</dict>
 		<key>64AFCA97-6725-4A31-8EE4-21BEBC836B4F</key>
 		<dict>
 			<key>className</key>
