@@ -7,6 +7,14 @@
 
 import SwiftUI
 
+/*
+ This file is responsible for configuring
+ the initial launch of our program. You
+ might put any data you want to have alive
+ at the beginning of and throughout the
+ duration of the program here
+ */
+
 @main
 struct WeSplitApp: App {
     var body: some Scene {

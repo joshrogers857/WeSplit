@@ -7,10 +7,14 @@
 
 import SwiftUI
 
+/*
+ Contains the main UI for the program
+ */
+
 struct ContentView: View {
+    
     var body: some View {
-        Text("Some text")
-            .padding()
+        Text("Hello world").padding()
     }
 }
 

@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>C2D2EDD0-E646-4488-9520-7CAF99CEA4AD</key>
+		<key>A1D33635-0B83-4441-B05E-BF2B847543B1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>C2D2EDD0-E646-4488-9520-7CAF99CEA4AD.xcactivitylog</string>
+			<string>A1D33635-0B83-4441-B05E-BF2B847543B1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>WeSplit-coeylvztrxdbdzdqhglagkpquksw</string>
 			<key>timeStartedRecording</key>
-			<real>667063132.40329397</real>
+			<real>667073700.16951394</real>
 			<key>timeStoppedRecording</key>
-			<real>667063137.94550395</real>
+			<real>667073700.58556497</real>
 			<key>title</key>
 			<string>Build target WeSplit</string>
 			<key>uniqueIdentifier</key>
-			<string>C2D2EDD0-E646-4488-9520-7CAF99CEA4AD</string>
+			<string>A1D33635-0B83-4441-B05E-BF2B847543B1</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
